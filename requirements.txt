@@ -1,4 +1,4 @@
-jupyter
+kagglehub
 matplotlib
 numpy
 pandas

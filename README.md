@@ -1,4 +1,4 @@
-# Honey Production - Linear Regression Lab
+# Linear Regression Lab: Honey Production
 
 A machine learning project analysing historical honey production in the United States and using linear regression to investigate changes in total honey production over time.
 
